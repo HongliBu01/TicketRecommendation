@@ -26,7 +26,7 @@ Updating..................
 
 ## Versioning
 
-Uodating
+Updating
 
 ## Authors
 
